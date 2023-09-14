@@ -1,4 +1,4 @@
-# Dockerized Nginx React Application wioth NodeJS and MySql
+# Dockerized Nginx React Application with NodeJS and MySql
 
 ### Start
 
